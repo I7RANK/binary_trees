@@ -1,10 +1,10 @@
 #include "binary_trees.h"
 
 /**
-*size - Support function binary_tree_size.
-*@tree: is a pointer to the root node of the tree
-*Return: 1. 
-*/
+ *size - Support function binary_tree_size.
+ *@tree: is a pointer to the root node of the tree
+ *Return: 1.
+ */
 
 size_t size(const binary_tree_t *tree)
 {
