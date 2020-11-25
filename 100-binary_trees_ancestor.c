@@ -19,10 +19,13 @@ binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
 	while (first)
 	{
 		for (i = second; i; i = (*i).parent)
+		{
 			if (first == i)
 				return ((binary_tree_t *) i);
 
-		second = (*second).parent;
+		}
+
+		i = (binary_tree_t *)second;
 		first = (*first).parent;
 	}
 
