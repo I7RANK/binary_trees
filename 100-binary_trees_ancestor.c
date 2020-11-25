@@ -8,7 +8,8 @@
  * Return: lowest common ancestor on success, NULL if there isn't one.
  */
 
-binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tree_t *second)
+binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
+							const binary_tree_t *second)
 {
 	const binary_tree_t *i;
 
@@ -19,7 +20,7 @@ binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tr
 	{
 		for (i = second; i; i = (*i).parent)
 			if (first == i)
-				return ((binary_tree_t *)i);
+				return ((binary_tree_t *) i);
 
 		second = (*second).parent;
 		first = (*first).parent;
