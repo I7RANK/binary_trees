@@ -8,3 +8,4 @@
 1. Insert left: Write a function that inserts a node as the left-child of another node
 2. Insert right: Write a function that inserts a node as the right-child of another node
 3. Delete: Write a function that deletes an entire binary tree
+4. Is leaf:  Write a function that checks if a node is a leaf
