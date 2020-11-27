@@ -23,3 +23,7 @@
 16. Is perfect: Write a function that checks if a binary tree is perfect
 17. Sibling: Write a function that finds the sibling of a node
 18. Uncle: Write a function that finds the uncle of a node
+
+#### Made by
+###### Francisco Guzmán [@I7RANKI](https://twitter.com/I7RANKI)
+###### Jose Parrales [@JParrales7](https://twitter.com/JParrales7)
