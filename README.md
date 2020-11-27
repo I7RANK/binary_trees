@@ -15,3 +15,5 @@
 8. Post-order traversal: Write a function that goes through a binary tree using post-order traversal
 9. Height: Write a function that measures the height of a binary tree
 10. Depth:  Write a function that measures the depth of a node in a binary tree
+11. Size: Write a function that measures the size of a binary tree
+12. Leaves: Write a function that counts the leaves in a binary tree
