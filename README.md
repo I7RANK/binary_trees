@@ -21,3 +21,4 @@
 14. Balance factor: Write a function that measures the balance factor of a binary tree
 15. Is full: Write a function that checks if a binary tree is full
 16. Is perfect: Write a function that checks if a binary tree is perfect
+17. Sibling: Write a function that finds the sibling of a node
