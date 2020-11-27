@@ -12,3 +12,4 @@
 5. Is root:  Write a function that checks if a given node is a root
 6. Pre-order traversal:  Write a function that goes through a binary tree using pre-order traversal
 7. In-order traversal: Write a function that goes through a binary tree using in-order traversal
+8. Post-order traversal: Write a function that goes through a binary tree using post-order traversal
