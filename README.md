@@ -20,3 +20,4 @@
 13. Nodes:  Write a function that counts the nodes with at least 1 child in a binary tree
 14. Balance factor: Write a function that measures the balance factor of a binary tree
 15. Is full: Write a function that checks if a binary tree is full
+16. Is perfect: Write a function that checks if a binary tree is perfect
